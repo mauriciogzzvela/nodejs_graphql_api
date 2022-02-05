@@ -2,6 +2,7 @@
 node.js graphql demo api
 
 npm install
+
 npm start
 
 enjoy testing!
